@@ -1,0 +1,131 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 04/04/2018 08:02
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-001-youtube:before { content: "\f100"; }
+.flaticon-002-wordpress:before { content: "\f101"; }
+.flaticon-003-whatsapp:before { content: "\f102"; }
+.flaticon-004-twitter:before { content: "\f103"; }
+.flaticon-005-tumblr:before { content: "\f104"; }
+.flaticon-006-stamp:before { content: "\f105"; }
+.flaticon-007-snapchat:before { content: "\f106"; }
+.flaticon-008-slack:before { content: "\f107"; }
+.flaticon-009-skype:before { content: "\f108"; }
+.flaticon-010-reddit:before { content: "\f109"; }
+.flaticon-011-pinterest:before { content: "\f10a"; }
+.flaticon-012-email-46:before { content: "\f10b"; }
+.flaticon-013-user:before { content: "\f10c"; }
+.flaticon-014-paypal:before { content: "\f10d"; }
+.flaticon-015-chat-24:before { content: "\f10e"; }
+.flaticon-016-chat-23:before { content: "\f10f"; }
+.flaticon-017-chat-22:before { content: "\f110"; }
+.flaticon-018-chat-21:before { content: "\f111"; }
+.flaticon-019-chat-20:before { content: "\f112"; }
+.flaticon-020-chat-19:before { content: "\f113"; }
+.flaticon-021-chat-18:before { content: "\f114"; }
+.flaticon-022-chat-17:before { content: "\f115"; }
+.flaticon-023-chat-16:before { content: "\f116"; }
+.flaticon-024-chat-15:before { content: "\f117"; }
+.flaticon-025-chat-14:before { content: "\f118"; }
+.flaticon-026-chat-13:before { content: "\f119"; }
+.flaticon-027-chat-12:before { content: "\f11a"; }
+.flaticon-028-chat-11:before { content: "\f11b"; }
+.flaticon-029-chat-10:before { content: "\f11c"; }
+.flaticon-030-chat-9:before { content: "\f11d"; }
+.flaticon-031-chat-8:before { content: "\f11e"; }
+.flaticon-032-chat-7:before { content: "\f11f"; }
+.flaticon-033-medium:before { content: "\f120"; }
+.flaticon-034-mailbox:before { content: "\f121"; }
+.flaticon-035-linkedin:before { content: "\f122"; }
+.flaticon-036-line:before { content: "\f123"; }
+.flaticon-037-laptop:before { content: "\f124"; }
+.flaticon-038-instagram:before { content: "\f125"; }
+.flaticon-039-google-plus:before { content: "\f126"; }
+.flaticon-040-chat-6:before { content: "\f127"; }
+.flaticon-041-flickr:before { content: "\f128"; }
+.flaticon-042-facebook:before { content: "\f129"; }
+.flaticon-043-messenger:before { content: "\f12a"; }
+.flaticon-044-email-45:before { content: "\f12b"; }
+.flaticon-045-email-44:before { content: "\f12c"; }
+.flaticon-046-email-43:before { content: "\f12d"; }
+.flaticon-047-email-42:before { content: "\f12e"; }
+.flaticon-048-email-41:before { content: "\f12f"; }
+.flaticon-049-email-40:before { content: "\f130"; }
+.flaticon-050-email-39:before { content: "\f131"; }
+.flaticon-051-email-38:before { content: "\f132"; }
+.flaticon-052-email-37:before { content: "\f133"; }
+.flaticon-053-email-36:before { content: "\f134"; }
+.flaticon-054-email-35:before { content: "\f135"; }
+.flaticon-055-email-34:before { content: "\f136"; }
+.flaticon-056-email-33:before { content: "\f137"; }
+.flaticon-057-email-32:before { content: "\f138"; }
+.flaticon-058-email-31:before { content: "\f139"; }
+.flaticon-059-email-30:before { content: "\f13a"; }
+.flaticon-060-email-29:before { content: "\f13b"; }
+.flaticon-061-email-28:before { content: "\f13c"; }
+.flaticon-062-email-27:before { content: "\f13d"; }
+.flaticon-063-email-26:before { content: "\f13e"; }
+.flaticon-064-email-25:before { content: "\f13f"; }
+.flaticon-065-email-24:before { content: "\f140"; }
+.flaticon-066-email-23:before { content: "\f141"; }
+.flaticon-067-email-22:before { content: "\f142"; }
+.flaticon-068-email-21:before { content: "\f143"; }
+.flaticon-069-email-20:before { content: "\f144"; }
+.flaticon-070-email-19:before { content: "\f145"; }
+.flaticon-071-email-18:before { content: "\f146"; }
+.flaticon-072-email-17:before { content: "\f147"; }
+.flaticon-073-email-16:before { content: "\f148"; }
+.flaticon-074-email-15:before { content: "\f149"; }
+.flaticon-075-email-14:before { content: "\f14a"; }
+.flaticon-076-email-13:before { content: "\f14b"; }
+.flaticon-077-email-12:before { content: "\f14c"; }
+.flaticon-078-email-11:before { content: "\f14d"; }
+.flaticon-079-email-10:before { content: "\f14e"; }
+.flaticon-080-email-9:before { content: "\f14f"; }
+.flaticon-081-email-8:before { content: "\f150"; }
+.flaticon-082-email-7:before { content: "\f151"; }
+.flaticon-083-email-6:before { content: "\f152"; }
+.flaticon-084-arroba-1:before { content: "\f153"; }
+.flaticon-085-email-5:before { content: "\f154"; }
+.flaticon-086-email-4:before { content: "\f155"; }
+.flaticon-087-arroba:before { content: "\f156"; }
+.flaticon-088-email-3:before { content: "\f157"; }
+.flaticon-089-email-2:before { content: "\f158"; }
+.flaticon-090-email-1:before { content: "\f159"; }
+.flaticon-091-email:before { content: "\f15a"; }
+.flaticon-092-dribbble:before { content: "\f15b"; }
+.flaticon-093-chat-5:before { content: "\f15c"; }
+.flaticon-094-chat-4:before { content: "\f15d"; }
+.flaticon-095-codepen:before { content: "\f15e"; }
+.flaticon-096-chat-3:before { content: "\f15f"; }
+.flaticon-097-chat-2:before { content: "\f160"; }
+.flaticon-098-chat-1:before { content: "\f161"; }
+.flaticon-099-chat:before { content: "\f162"; }
+.flaticon-100-behance:before { content: "\f163"; }
